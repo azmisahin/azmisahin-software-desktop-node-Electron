@@ -1,0 +1,25 @@
+{
+  "name": "electron",
+  "version": "0.1.0",
+  "description": "Desktop Application By Electron",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azmisahin/electron.git"
+  },
+  "keywords": [
+    "desktop",
+    "application",
+    "nodejs",
+    "electron"
+  ],
+  "author": "bilgi (at)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azmisahin/electron/issues"
+  },
+  "homepage": "https://github.com/azmisahin/electron#readme"
+}
