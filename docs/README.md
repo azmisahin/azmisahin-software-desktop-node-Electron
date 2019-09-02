@@ -2,4 +2,4 @@
 
 Desktop Application By Electron
 
-![Nodejs Base Desktop Application](docs/media/nodejs-desktop.png)
+![Nodejs Base Desktop Application](media/nodejs-desktop.png)

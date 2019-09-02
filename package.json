@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/azmisahin/electron.git"
+    "url": "git+https://github.com/azmisahin/azmisahin-software-desktop-node-Electron.git"
   },
   "keywords": [
     "desktop",
@@ -17,12 +17,12 @@
     "nodejs",
     "electron"
   ],
-  "author": "bilgi (at)",
-  "license": "ISC",
+  "author": "azmisahin@outlook.com",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/azmisahin/electron/issues"
+    "url": "https://github.com/azmisahin/azmisahin-software-desktop-node-Electron/issues"
   },
-  "homepage": "https://github.com/azmisahin/electron#readme",
+  "homepage": "https://github.com/azmisahin/azmisahin-software-desktop-node-Electron#readme",
   "devDependencies": {
     "electron": "~1.6.2"
   }
